@@ -7,9 +7,6 @@ https://stat-study.tistory.com/15?category=848076
 ![image](./image/img2.png)
 ![image](./image/img3.png)
 ![image](./image/img4.png)
-<<<<<<< HEAD
 ![image](./image/img5.png)
-=======
 ![image](./image/img5.png)
 
->>>>>>> 894fa12bd44eabe1751c92224fe2508529e11a74
