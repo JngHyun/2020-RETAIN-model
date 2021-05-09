@@ -1,6 +1,6 @@
 # bigcontest_RETAIN
 
-### [retain 논문 정리 Click!] [blog-link]
+### [retain 논문 정리 Click!][blog-link]
 
 ![image](./image/img1.png)
 ![image](./image/img2.png)
