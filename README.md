@@ -1,7 +1,6 @@
 # bigcontest_RETAIN
 
-### retain 논문 정리
-https://stat-study.tistory.com/15?category=848076
+### [retain 논문 정리 Click!][https://stat-study.tistory.com/15?category=848076]
 
 ![image](./image/img1.png)
 ![image](./image/img2.png)
